@@ -2,4 +2,5 @@
 
 |   #   | Folder Link | Assignment Description |
 | :---: | ----------- | ---------------------- |
-|   0   | link 0      | description 0          |
+|   1   | [P01](P01)  | Shell Project          |
+|   2   | [P02](P02)  | File System            |
